@@ -1,5 +1,7 @@
 # 建议在谷歌colab上使用免费的GPU运行本Notebook，少安装很多依赖。
 
+[google colab中打开](https://drive.google.com/file/d/1Qd4gpc5Vk_YvRVsCd9K7XdV8yxrhBSXA/view?usp=sharing)
+
 本文主要内容有：
 1. Facebook基于Vision Transformers的自监督研究DINO相关模型在视频上抽取feature并展示attention map
 2. Huggingface/Transformers中Vision Transformers的基本使用方法。

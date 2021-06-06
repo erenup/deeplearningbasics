@@ -1,3 +1,5 @@
+[google colab中打开](https://drive.google.com/file/d/1i4hbDzb1i1XM2_vv-GR4cd2v9qNC4Uug/view?usp=sharing)
+
 如果您在谷歌colab上打开的这个Notebook，您可能需要重新安装一下 🤗 Transformers代码库和🤗 Datasets。将下一行代码取消注释并运行即可。
 在运行单元格之前，建议您按照本项目readme中提示，建立一个专门的python环境用于学习。
 

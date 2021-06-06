@@ -1,3 +1,5 @@
+[google colab中打开](https://drive.google.com/file/d/1ZEcgBbambJtzRDmGDsRxn3LcqqwHAVHc/view?usp=sharing)
+
 如果您正在google的colab中打开这恶搞notebook，您可能需要安装Transformers和🤗Datasets库。将以下命令取消注释即可安装。
 在运行单元格之前，建议您按照本项目readme中提示，建立一个专门的python环境用于学习。
 
