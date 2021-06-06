@@ -1,4 +1,5 @@
-点击打开对应的![google colab notebook](https://drive.google.com/file/d/1VIHfCjYP-2NXJhbfhVVhDMvNk2ogvMdJ/view?usp=sharing)
+点击打开对应的[google colab notebook](https://drive.google.com/file/d/1VIHfCjYP-2NXJhbfhVVhDMvNk2ogvMdJ/view?usp=sharing)
+
 如果您在colab上打开这个jupyter笔记本，您需要安装🤗Trasnformers和🤗datasets。具体命令如下（取消注释并运行，如果速度慢请切换国内源，加上第二行的参数）。
 
 在运行单元格之前，建议您按照本项目readme中提示，建立一个专门的python环境用于学习。
