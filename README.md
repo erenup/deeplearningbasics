@@ -1,5 +1,5 @@
 # 深度学习基础
-> [深度学习基础Github]()
+> [深度学习基础Github](https://github.com/erenup/deeplearningbasics)
 > 
 > 欢迎来到深度学习基础教程。本教程面向所有**深度学习爱好者/学生/求职人员/算法工程师新手**，希望能从深度学习数学知识、深度学习模型基础、深度学习应用等三个方面对深度学习相关内容进行总结学习。
 > 
@@ -48,5 +48,10 @@
 
 
 > 我的知乎是[多多笔记](http://www.zhihu.com/people/nai-ping-46-76)
-> 可以添加这个微信号联系我：bit_pku_eecs
+> 
+> 可以添加这个微信号联系我：bit_pku_eecs，备注：交流，可以帮一下transformer、NLP、深度学习的交流群。
+> 
+> 也欢迎关注公众号：![公众号](./resources/AI部落联盟.jpg)
+
+
 
