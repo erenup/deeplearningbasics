@@ -49,7 +49,7 @@
 
 > 我的知乎是[多多笔记](http://www.zhihu.com/people/nai-ping-46-76)
 > 
-> 可以添加这个微信号联系我：bit_pku_eecs，备注：交流，可以帮一下transformer、NLP、深度学习的交流群。
+> 可以添加这个微信号联系我：bit_pku_eecs，备注：交流，可以帮拉入transformer、NLP、深度学习的交流群进行讨论。
 > 
 > 也欢迎关注公众号：![公众号](./resources/AI部落联盟.jpg)
 
